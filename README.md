@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1dhruvsingh" alt="1dhruvsingh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dhruvsingh_13" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvsingh_13?logo=twitter&style=for-the-badge" alt="dhruvsingh_13" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
