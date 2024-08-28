@@ -1,4 +1,4 @@
-<h1 align="center"> Full-stack and Web-3 software engineer</h1>
+<h1 align="center"> Full-stack web-dev, App-Tech and Web-3 enthusisast software engineer</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
