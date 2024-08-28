@@ -1,5 +1,5 @@
-<h1 align="center"> Full-stack web-dev, App-Tech and Web-3 enthusisast software engineer</h1>
-
+<h1 align="center">A curious software engineer</h1>
+<h2 alig="left"> I am a college student working for my CS degree, and in my course I am working on DSA and Web-development ,and I also happen to have a keen interest in App-dev and Web-3 </h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/1dhruvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="1dhruvsingh" height="30" width="40" /></a>
