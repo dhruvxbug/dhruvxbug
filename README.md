@@ -19,6 +19,6 @@
 <p>&nbsp;<img align="center"  body style="background-color:powderblue;" width="48%" src="https://github-readme-stats.vercel.app/api?username=1dhruvsingh&show_icons=true&locale=en#gh-dark-mode-only" alt="1dhruvsingh" /> <img align="right" body style="background-color:powderblue;" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&#gh-dark-mode-only" alt="1dhruvsingh" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact" alt="1dhruvsingh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact&langs_count=10" alt="1dhruvsingh" /></p>
 
 
