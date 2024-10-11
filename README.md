@@ -16,7 +16,11 @@
 
 
 
-<p>&nbsp;<img align="center"  body style="background-color:powderblue;" width="48%" src="https://github-readme-stats.vercel.app/api?username=1dhruvsingh&show_icons=true&locale=en#gh-dark-mode-only" alt="1dhruvsingh" /> <img align="right" body style="background-color:powderblue;" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&#gh-dark-mode-only" alt="1dhruvsingh" /></p>
+<p>&nbsp;
+  <img align="center" style="background-color:powderblue;" width="48%" src="https://github-readme-stats.vercel.app/api?username=all-tim&show_icons=true&locale=en&count_private=true&include_all_commits=true#gh-dark-mode-only" alt="all-tim" />
+  <img align="right" style="background-color:powderblue;" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=all-tim&count_private=true#gh-dark-mode-only" alt="all-tim" />
+</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact&langs_count=10" alt="1dhruvsingh" /></p>
