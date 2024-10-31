@@ -9,6 +9,7 @@
 <a href="https://www.hackerrank.com/dhruvsinghsir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvsinghsir" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvvee13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvvee13" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dhruvvee13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhruvvee13" height="30" width="40" /></a>
+<a href="https://x.com/DhruvSingh_13" target="blank"><img align="center" src="https://www.reddit.com/r/opensource/comments/1chna9m/twitterx_opensource_use/" alt="dhruvvee13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
