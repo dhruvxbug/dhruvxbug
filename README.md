@@ -26,6 +26,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact&langs_count=10" alt="1dhruvsingh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact&langs_count=15" alt="1dhruvsingh" /></p>
 
 
