@@ -1,5 +1,14 @@
 <h1 align="center">A curious dev</h1>
 <h3 align="left">Connect with me:</h3>
+
+Coursework: Operating Systems, OOPS, Data Structures & Algorithms
+Web Development: React.js, Node.js, HTML, CSS
+Databases: 
+Data Management: Python ,R-langauge 
+Languages: C++, JavaScript, TypeScript, 
+Tools: Git, GitHub, VS Code
+OS: Windows, Mac OS, Linux, Android
+
 <p align="left">
 <a href="https://codepen.io/1dhruvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="1dhruvsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv-singh-6a628128a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-singh-6a628128a" height="30" width="40" /></a>
