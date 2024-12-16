@@ -14,13 +14,13 @@
 <a href="https://twitter.com/dhruvsingh_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvsingh_13" height="30" width="40" /></a>
 </p>
 
-<p> <h4> Coursework: </h4> Operating Systems, OOPS, Data Structures & Algorithms  </br>
-<h4> Web Development: </h4> React.js, Node.js, HTML, CSS </br>
-<h4> Databases: </h4> </br>
-<h4> Data Management: </h4> Python ,R-langauge</br>
-<h4> Languages: </h4> C++, JavaScript, TypeScript </br>
-<h4> Tools: </h4> Git, GitHub, VS Code </br>
-<h4> OS:</h4> Windows, Mac OS, Linux, Android</p>
+<p> <b>Coursework:</b>  Operating Systems, OOPS, Data Structures & Algorithms </br>
+ <b>Web Development:</b> React.js, Node.js, HTML, CSS </br>
+ <b>Databases:</b>  </br>
+ <b>Data Management:</b>  Python ,R-langauge </br>
+ <b>Languages:</b>  C++, JavaScript, TypeScript </br>
+ <b>Tools:</b>  Git, GitHub, VS Code </br>
+ <b>OS:</b> Windows, Mac OS, Linux, Android</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
