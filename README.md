@@ -1,13 +1,13 @@
 <h1 align="center">A curious dev</h1>
 <h3 align="left">Connect with me:</h3>
 
-Coursework: Operating Systems, OOPS, Data Structures & Algorithms
-Web Development: React.js, Node.js, HTML, CSS
-Databases: 
-Data Management: Python ,R-langauge 
-Languages: C++, JavaScript, TypeScript, 
-Tools: Git, GitHub, VS Code
-OS: Windows, Mac OS, Linux, Android
+<p> Coursework: Operating Systems, OOPS, Data Structures & Algorithms </p>
+<p> Web Development: React.js, Node.js, HTML, CSS </p>
+<p>Databases: </p>
+<p>Data Management: Python ,R-langauge </p>
+<p>Languages: C++, JavaScript, TypeScript, </p>
+<p>Tools: Git, GitHub, VS Code</p>
+<p>OS: Windows, Mac OS, Linux, Android</p>
 
 <p align="left">
 <a href="https://codepen.io/1dhruvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="1dhruvsingh" height="30" width="40" /></a>
