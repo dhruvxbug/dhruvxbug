@@ -32,11 +32,5 @@
 
 <p>&nbsp;
   <img align="center" style="background-color:powderblue;" width="47%" src="https://github-readme-stats.vercel.app/api?username=1dhruvsingh&show_icons=true&locale=en&count_private=true&include_all_commits=true#gh-dark-mode-only" alt="1dhruvsingh" />
-  <img align="right" style="background-color:powderblue;" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&count_private=true#gh-dark-mode-only" alt="1dhruvsingh" />
+  <img align="right" style="background-color:powderblue;" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&count_private=true#gh-dark-mode-only" alt="1dhruvsingh" />
 </p>
-
-
-
-<center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact&langs_count=15" alt="1dhruvsingh" /></p>
-</center>
