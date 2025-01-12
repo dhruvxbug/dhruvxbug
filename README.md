@@ -1,6 +1,24 @@
 <h1 align="center">A curious dev</h1>
 
+hi# Hello I'm Rahul 👋
 
+
+
+## 🛠️ Technologies & Tools
+
+- **Programming/Scripting Languages worked with:** Python, C++, JavaScript
+- **Frontend Development:** React.js, Next.js
+- **Backend Development:** Node.js, 
+- **Mobile Development:**  
+- **Databases:** 
+- **DevOps Tools:** 
+- **Version Control:** Git / GitHub 
+- **Backend Operations:** 
+  
+## 👨🏻‍💻 Current Learning Goals
+
+- Master web-dev + devops and web3 
+- Solve more DSA 
 
 
 <h3 align="left">Connect with me:</h3>
