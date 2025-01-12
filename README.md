@@ -18,7 +18,7 @@
 - Master web-dev + devops and web3 
 - Solve more DSA 
 
-
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/1dhruvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="1dhruvsingh" height="30" width="40" /></a>
@@ -30,6 +30,7 @@
 <a href="https://twitter.com/dhruvsingh_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvsingh_13" height="30" width="40" /></a>
 </p>
 
+</br>
 <p>&nbsp;
   <img align="center" style="background-color:powderblue;" width="46%" src="https://github-readme-stats.vercel.app/api?username=1dhruvsingh&show_icons=true&locale=en&count_private=true&include_all_commits=true#gh-dark-mode-only" alt="1dhruvsingh" />
   <img align="right" style="background-color:powderblue;" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&count_private=true#gh-dark-mode-only" alt="1dhruvsingh" />
