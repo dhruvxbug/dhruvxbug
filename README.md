@@ -31,6 +31,6 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" style="background-color:powderblue;" width="47%" src="https://github-readme-stats.vercel.app/api?username=1dhruvsingh&show_icons=true&locale=en&count_private=true&include_all_commits=true#gh-dark-mode-only" alt="1dhruvsingh" />
-  <img align="right" style="background-color:powderblue;" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&count_private=true#gh-dark-mode-only" alt="1dhruvsingh" />
+  <img align="center" style="background-color:powderblue;" width="46%" src="https://github-readme-stats.vercel.app/api?username=1dhruvsingh&show_icons=true&locale=en&count_private=true&include_all_commits=true#gh-dark-mode-only" alt="1dhruvsingh" />
+  <img align="right" style="background-color:powderblue;" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&count_private=true#gh-dark-mode-only" alt="1dhruvsingh" />
 </p>
