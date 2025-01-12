@@ -1,7 +1,5 @@
 <h1 align="center">A curious dev</h1>
 
-hi# Hello I'm Rahul 👋
-
 
 
 ## 🛠️ Technologies & Tools
@@ -51,7 +49,6 @@ hi# Hello I'm Rahul 👋
 
 
 
-
+<center>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact&langs_count=15" alt="1dhruvsingh" /></p>
-
-
+</center>
