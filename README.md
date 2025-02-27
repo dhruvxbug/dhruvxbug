@@ -5,8 +5,8 @@
 ## 🛠️ Technologies & Tools
 
 - **Programming/Scripting Languages worked with:** Python, C++, JavaScript
-- **Frontend Development:** React.js, Next.js
-- **Backend Development:** Node.js, 
+- **Frontend Development:** React.js, Next.js, Angular.js
+- **Backend Development:** Node.js,
 - **Mobile Development:**  
 - **Databases:** 
 - **DevOps Tools:** 
