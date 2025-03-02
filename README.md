@@ -8,7 +8,7 @@
 - **Frontend Development:** React.js, Next.js, Angular.js
 - **Backend Development:** Node.js,
 - **Mobile Development:**  
-- **Databases:** 
+- **Databases:** SQL
 - **DevOps Tools:** 
 - **Version Control:** Git / GitHub 
 - **Backend Operations:** 
