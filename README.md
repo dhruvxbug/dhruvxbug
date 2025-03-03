@@ -1,5 +1,7 @@
 <h1 align="center">A curious dev</h1>
-
+<img src="![Ivory and Black Minimalist Design Studio LinkedIn Article Cover Image-2](https://github.com/user-attachments/assets/a0c8c2ef-ed0c-48af-ad3a-efde4066ffa7)
+">
+  <img align="right" style="background-color:powderblue;" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&count_private=true#gh-dark-mode-only" alt="1dhruvsingh" />
 
 
 ## 🛠️ Technologies & Tools
@@ -33,7 +35,5 @@
 </br>
 <p>&nbsp;
   <img align="center" style="background-color:powderblue;" width="46%" src="https://github-readme-stats.vercel.app/api?username=1dhruvsingh&show_icons=true&locale=en&count_private=true&include_all_commits=true#gh-dark-mode-only" alt="1dhruvsingh" />
-  <img align="right" style="background-color:powderblue;" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&count_private=true#gh-dark-mode-only" alt="1dhruvsingh" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact&langs_count=15" alt="1dhruvsingh" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact&langs_count=15" alt="1dhruvsingh" /></p>
