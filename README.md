@@ -1,6 +1,5 @@
-<h1 align="center">A curious dev</h1>
 
-<img src="https://www.canva.com/design/DAGgXvwoJco/pntoZErQv4k4rZbhB9LnNw/editutm_content=DAGgXvwoJco&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="1dhruvsingh" style="background-blend-mode: normal;"/>
+<img src="img1.png" alt="1dhruvsingh" style="background-blend-mode: lighten;"/>
 
 
 ## 🛠️ Technologies & Tools
