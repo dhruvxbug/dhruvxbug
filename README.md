@@ -1,7 +1,6 @@
 <h1 align="center">A curious dev</h1>
-<img src="![Ivory and Black Minimalist Design Studio LinkedIn Article Cover Image-2](https://github.com/user-attachments/assets/a0c8c2ef-ed0c-48af-ad3a-efde4066ffa7)
-">
-  <img align="right" style="background-color:powderblue;" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1dhruvsingh&count_private=true#gh-dark-mode-only" alt="1dhruvsingh" />
+
+<img src="https://www.canva.com/design/DAGgXvwoJco/pntoZErQv4k4rZbhB9LnNw/editutm_content=DAGgXvwoJco&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="1dhruvsingh" style="background-blend-mode: normal;"/>
 
 
 ## 🛠️ Technologies & Tools
