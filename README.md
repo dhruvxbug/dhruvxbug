@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=1dhruvsingh)
 <img src="img1.png" alt="1dhruvsingh" style="background-blend-mode: lighten;"/>
 
 
