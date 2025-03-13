@@ -33,5 +33,5 @@
 </br>
 <p>&nbsp;
   <img align="center" style="background-color:powderblue;" width="46%" src="https://github-readme-stats.vercel.app/api?username=1dhruvsingh&show_icons=true&locale=en&count_private=true&include_all_commits=true#gh-dark-mode-only" alt="1dhruvsingh" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1dhruvsingh&show_icons=true&locale=en&layout=compact&langs_count=15" alt="1dhruvsingh" />
+  
 </p>
