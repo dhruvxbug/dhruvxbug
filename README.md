@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=1dhruvsingh)
+<a href="https://wakatime.com/@f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17"><img src="https://wakatime.com/badge/user/f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17.svg" alt="Total time coded since Aug 27 2024" /></a>
 <img src="img1.png" alt="1dhruvsingh" style="background-blend-mode: lighten;"/>
 
 
