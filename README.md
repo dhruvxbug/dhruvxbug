@@ -6,9 +6,9 @@
 
 - **Programming/Scripting Languages worked with:** Python, C++, JavaScript
 - **Frontend Development:** React.js, Next.js, Angular.js
-- **Backend Development:** Node.js,
-- **Mobile Development:**  
-- **Databases:** SQL
+- **Backend Development:** Node.js
+- **Mobile Development:**
+- **Databases:** MySQL ,MongoDB
 - **DevOps Tools:** 
 - **Version Control:** Git / GitHub 
 - **Backend Operations:** 
