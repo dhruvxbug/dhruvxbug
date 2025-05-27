@@ -2,7 +2,7 @@
 <a href="https://wakatime.com/@f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17"><img src="https://wakatime.com/badge/user/f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17.svg" alt="Total time coded since Aug 27 2024" /></a>
 
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Programming/Scripting Languages worked with:** Python, C++, JavaScript
 - **Frontend Development:** React.js, Next.js, Angular.js
@@ -13,7 +13,7 @@
 - **Version Control:** Git / GitHub 
 - **Backend Operations:** 
 
-## 🔌Connect with me 
+## Connect with me 
 <p align="left">
 <a href="https://codepen.io/1dhruvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="1dhruvsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv-singh-6a628128a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-singh-6a628128a" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/dhruvxbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvsingh_13" height="30" width="40" /></a>
 </p>
 
-## 🎯Github Stats 
+## Github Stats 
 </br>
 <p>&nbsp;
   <img align="center" style="background-color:powderblue;" width="46%" src="https://github-readme-stats.vercel.app/api?username=1dhruvsingh&show_icons=true&locale=en&count_private=true&include_all_commits=true#gh-dark-mode-only" alt="1dhruvsingh" />
