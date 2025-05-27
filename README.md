@@ -12,11 +12,6 @@
 - **DevOps Tools:** 
 - **Version Control:** Git / GitHub 
 - **Backend Operations:** 
-  
-## 👨🏻‍💻 Current Learning Goals
-
-- Master web-dev + devops and web3 
-- Solve more DSA 
 
 ## 🔌Connect with me 
 <p align="left">
@@ -26,7 +21,7 @@
 <a href="https://www.hackerrank.com/dhruvsinghsir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvsinghsir" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvvee13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvvee13" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dhruvvee13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhruvvee13" height="30" width="40" /></a>
-<a href="https://twitter.com/dhruvsingh_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvsingh_13" height="30" width="40" /></a>
+<a href="https://twitter.com/dhruvxbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvsingh_13" height="30" width="40" /></a>
 </p>
 
 ## 🎯Github Stats 
