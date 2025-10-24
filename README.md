@@ -1,17 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=1dhruvsingh)
 <a href="https://wakatime.com/@f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17"><img src="https://wakatime.com/badge/user/f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17.svg" alt="Total time coded since Aug 27 2024" /></a>
 
-
-## Technologies & Tools
-
-- **Programming/Scripting Languages worked with:** Python, C++, JavaScript
-- **Frontend Development:** React.js, Next.js, Angular.js
-- **Backend Development:** Node.js
-- **Mobile Development:**
-- **Databases:** MySQL ,MongoDB
-- **DevOps Tools:** 
-- **Version Control:** Git / GitHub 
-- **Backend Operations:** 
+Just a dumb builder 
 
 ## Connect with me 
 <p align="left">
