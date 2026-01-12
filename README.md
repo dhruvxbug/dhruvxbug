@@ -16,4 +16,4 @@ Just a dumb builder
 
 ## Github Stats 
 </br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhruvxbug&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhruvxbug&hide_current_streak=true" alt="GitHub Streak" /></a>
