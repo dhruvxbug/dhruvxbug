@@ -27,7 +27,5 @@ const mySkills()  = {
 ```
 
 ## Github Stats 
-
-</br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhruvxbug" alt="GitHub Streak" /></a>
 
