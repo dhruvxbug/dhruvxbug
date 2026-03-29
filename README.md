@@ -3,7 +3,7 @@
 
 Just a dumb builder 
 
-## Connect with me 
+## Socials 
 <p align="left">
 <a href="https://codepen.io/1dhruvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="1dhruvsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv-singh-6a628128a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-singh-6a628128a" height="30" width="40" /></a>
@@ -14,6 +14,20 @@ Just a dumb builder
 <a href="https://twitter.com/dhruvxbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvsingh_13" height="30" width="40" /></a>
 </p>
 
+## A more formal waste of my time 
+
+``` js
+const mySkills()  = {
+  Backend : "Nodejs","Express"
+  Frontend: "React","NextJs","React Native","TypeScript","JavaScript"
+  DevOps: "Git/GitHub"
+  Database : "MongoDB","Redis","Prisma","PostgreSQL","VectorDB"
+  web3: "solidity","EVM"
+}
+```
+
 ## Github Stats 
+
 </br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhruvxbug" alt="GitHub Streak" /></a>
+
