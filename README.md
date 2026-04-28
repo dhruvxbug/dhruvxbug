@@ -3,16 +3,8 @@
 
 Just a dumb builder 
 
-## Socials 
-<p align="left">
-<a href="https://codepen.io/1dhruvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="1dhruvsingh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruv-singh-6a628128a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-singh-6a628128a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1dhruvsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1dhruvsingh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhruvsinghsir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvsinghsir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruvvee13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvxbug" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhruvvee13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhruvvee13" height="30" width="40" /></a>
-<a href="https://twitter.com/dhruvxbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvsingh_13" height="30" width="40" /></a>
-</p>
+
+
 
 ## A more formal waste of my time 
 
