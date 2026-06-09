@@ -1,9 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=1dhruvsingh)
 <a href="https://wakatime.com/@f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17"><img src="https://wakatime.com/badge/user/f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17.svg" alt="Total time coded since Aug 27 2024" /></a>
 
-Just a dumb builder 
+## Dhruv Singh
 
-
+building things just to see if I can. <br>
+obessed with clean UI, some web2 stuff and automation, like to tinker around different web3 ecosystems to build cool stuff <br>
+*bad trait* - I try to clone your entire startup over a weekend as a side project
 
 
 ## A more formal waste of my time 
@@ -11,13 +13,18 @@ Just a dumb builder
 ``` js
 const mySkills()  = {
   Backend : "Nodejs","Express"
-  Frontend: "React","NextJs","React Native","TypeScript","JavaScript"
+  Languages: "Typescript", "Javascript","solidity","Sui Move","Python"
+  Frontend: "React","NextJs","React Native"
   DevOps: "Git/GitHub"
   Database : "MongoDB","Redis","Prisma","PostgreSQL","VectorDB"
-  web3: "solidity","EVM"
+  web3: "solidity","EVM","Sui Move"
 }
 ```
 
 ## Github Stats 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhruvxbug" alt="GitHub Streak" /></a>
-
+<p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=dhruvxbug" alt="GitHub Streak" height="195" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvxbug&theme=graywhite&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="dhruvxbug's Top Languages" height="195" />
+</p>
