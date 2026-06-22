@@ -4,8 +4,8 @@
 ## Dhruv Singh
 
 building things just to see if I can. <br>
-obessed with clean UI, some web2 stuff and automation, like to tinker around different web3 ecosystems to build cool stuff <br>
-*bad trait* - I try to clone your entire startup over a weekend as a side project
+obsessed with agentic/decentralized web<br>
+*bad trait* - I try to clone entire startup over a weekend as a side project
 
 
 ## A more formal waste of my time 
