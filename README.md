@@ -4,7 +4,7 @@
 ## Dhruv Singh
 
 building things just to see if I can. <br>
-obsessed with agentic/decentralized web<br>
+obsessed with agentic/decentralized web, part time security researcher<br>
 *bad trait* - I try to clone entire startup over a weekend as a side project
 
 
