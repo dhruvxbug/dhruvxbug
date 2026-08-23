@@ -8,23 +8,4 @@ obsessed with agentic/decentralized web, part time security researcher<br>
 *bad trait* - I try to clone entire startup over a weekend as a side project
 
 
-## A more formal waste of my time 
-
-``` js
-const mySkills()  = {
-  Backend : "Nodejs","Express"
-  Languages: "Typescript", "Javascript","solidity","Sui Move","Python"
-  Frontend: "React","NextJs","React Native"
-  DevOps: "Git/GitHub"
-  Database : "MongoDB","Redis","Prisma","PostgreSQL","VectorDB"
-  web3: "solidity","EVM","Sui Move"
-}
-```
-
-## Github Stats 
-<p>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dhruvxbug" alt="GitHub Streak" height="195" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvxbug&theme=graywhite&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="dhruvxbug's Top Languages" height="195" />
-</p>
+<img width="2000" height="1584" alt="image" src="https://github.com/user-attachments/assets/279c568b-00b4-421d-a80f-75596a0c315d" />
