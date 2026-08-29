@@ -27,7 +27,7 @@ obsessed with agentic/decentralized web, part time security researcher<br>
 - [Course-selling-website](https://github.com/dhruvxbug/Course-selling-website)— Full-stack LMS with jwt auth, Stripe Webhook integration, and PostgreSQL.
 - [Uber-Clone-](https://github.com/dhruvxbug/Uber-Clone-)— Full-stack app with WebSocket driver tracking, Mapbox geospatial routing, and Redis geo-indexing.
 - [MacOS-](https://github.com/dhruvxbug/MacOS-) — Portfolio + MacOS experience 
-- [Legends-Arena-Unity](https://github.com/dhruvxbug/Legends-Arena-Unity) — Game launch landing page 
+- [Legends-Arena-Unity](https://github.com/dhruvxbug/Legends-Arena-Unity) — web3 game Unity (game dev side) + landing page
 
 
 ---
