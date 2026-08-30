@@ -2,10 +2,11 @@
 <a href="https://wakatime.com/@f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17"><img src="https://wakatime.com/badge/user/f14ef874-57c2-48e1-b6b6-7aa3d3ce8d17.svg" alt="Total time coded since Aug 27 2024" /></a>
 
 ## Dhruv Singh
-
+<a href="https://dhruvsingh.vercel.app" target="_blank">Portfolio</a> • <a href="https://www.linkedin.com/in/dhruvsinghx/" target="_blank">LinkedIn</a> • <a href="https://x.com/dhruvxbug" target="_blank">Twitter</a> <br>
 solo builder (code marketing fund raising, alright almost everything) <br> 
 obsessed with agentic/decentralized web, part time security researcher<br>
-*bad trait* - I try to clone entire startup over a weekend as a side project
+*bad trait* - I try to clone entire startup over a weekend as a side project 
+
 
 ---
 
